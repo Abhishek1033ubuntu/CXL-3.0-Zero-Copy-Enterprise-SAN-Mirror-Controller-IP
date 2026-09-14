@@ -1,9 +1,12 @@
-cff-version: 1.1.0
+cff-version: 1.2.0
 message: "If you use or reference this work, please cite it as below."
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
     orcid: "https://orcid.org/0009-0004-6913-096X"
 title: "CXL-3.0-Zero-Copy-Enterprise-SAN-Mirror-Controller-IP"
+repository-code: "https://github.com/Abhishek1033ubuntu/CXL-3.0-Zero-Copy-Enterprise-SAN-Mirror-Controller-IP"
+doi: "10.5281/zenodo.22749733"
 date-released: 2026-09-14
 version: "1.0.0"
+license: CERN-OHL-S-2.0
