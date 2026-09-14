@@ -81,6 +81,6 @@ Open Source: This hardware design is licensed under the CERN Open Hardware Licen
 
 Commercial Licensing: For proprietary enterprise integration, production ASIC tape-out licensing without copyleft obligations, or custom architectural consulting:
 
-Maintainer: Abhishek Singh
+Maintainer: Abhishek Singh Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
 
 GitHub: @Abhishek1033ubuntu
