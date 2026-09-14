@@ -69,18 +69,17 @@ The controller bypasses host CPU kernel overhead and software-bound storage stac
 ├── LICENSE                    # CERN-OHL-S-2.0 Full License Text
 └── README.md                  # Project Documentation
 ```
-Verification & Synthesis
+# Verification & Synthesis
 The core RTL has been verified using self-checking testbenches under heavy synthetic traffic patterns (RAID rebuild simulation, 0% deduplication edge-cases, capacity exhaustion):
 
-Simulation: Run UVM / cocotb testbenches with GTKWave verification for credit overflow checks.
+> Simulation: Run UVM / cocotb testbenches with GTKWave verification for credit overflow checks.
 
-FPGA Prototyping: Targeted for Xilinx UltraScale+ / AWS EC2 F1 cloud FPGA synthesis to verify timing closure at target clock frequencies.
+> FPGA Prototyping: Targeted for Xilinx UltraScale+ / AWS EC2 F1 cloud FPGA synthesis to verify timing closure at target clock frequencies.
 
-Licensing & Commercial Contact
-Open Source: This hardware design is licensed under the CERN Open Hardware Licence - Strongly Reciprocal (CERN-OHL-S-2.0). You are free to evaluate, study, modify, and distribute it under the terms of this license.
+# Licensing & Commercial Contact
+> Open Source: This hardware design is licensed under the CERN Open Hardware Licence - Strongly Reciprocal (CERN-OHL-S-2.0). You are free to evaluate, study, modify, and distribute it under the terms of this license.
 
-Commercial Licensing: For proprietary enterprise integration, production ASIC tape-out licensing without copyleft obligations, or custom architectural consulting:
-
+> Commercial Licensing: For proprietary enterprise integration, production ASIC tape-out licensing without copyleft obligations, or custom architectural consulting:
 Maintainer: Abhishek Singh Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
 
 GitHub: @Abhishek1033ubuntu
