@@ -3,7 +3,8 @@
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](https://spdx.org/licenses/CERN-OHL-S-2.0.html)
 [![Language: SystemVerilog](https://img.shields.io/badge/Language-SystemVerilog-orange.svg)]()
 [![Target: CXL 3.0 / PCIe 6.0](https://img.shields.io/badge/Protocol-CXL_3.0_%7C_PCIe_6.0-green.svg)]()
-[![Developed with Google Gemini](https://img.shields.io/badge/Developed%20with-Google%20Gemini-8E75B5?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com)
+[![Developed with Google Gemini](https://img.shields.io/badge/Developed%20with-Google%20Gemini-8E75B5?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22749733-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22749733) 
 
 A high-performance, purely hardware-driven **CXL 3.0 SAN Mirror Controller IP core** implemented in SystemVerilog. Designed for ultra-low latency enterprise storage disaggregation, memory pooling, and Tier-0 cloud database workloads.
 
